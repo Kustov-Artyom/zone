@@ -1,2 +1,2 @@
 # zone
-Website about virtual reality
+Website about virtual reality and business solutions
