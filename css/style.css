@@ -871,23 +871,3 @@ body {
     font-family: 'dm_sansregular', Arial, sans-serif;
     color: #FFFFFF;
 }
-
-/* --------адаптация--------- */
-
-@media (max-width: 1040px) {
-    .header__logo-zone {
-        margin: 0;
-    }
-}
-
-@media (max-width: 915px) {
-    .header__center {
-        margin: 0;
-    }
-}
-
-@media (max-width: 770px) {
-    .header__center {
-        justify-content: center;
-    }
-}
