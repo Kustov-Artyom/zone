@@ -64,7 +64,7 @@ body {
     transform: scale(1.2);
 }
 
-.header__logo-zone p {
+.header__logo-zone div {
     color: #FFFFFF;
     font-size: 20px;
     font-family: 'rubikmedium', Arial, sans-serif;
